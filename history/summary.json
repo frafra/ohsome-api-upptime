@@ -4,18 +4,19 @@
     "url": "https://api.ohsome.org/v1/elements/bbox?bboxes=9.19%2C45.46%2C9.20%2C45.46&types=node&properties=metadata&showMetadata=true&time=2020-01-01",
     "icon": "https://favicons.githubusercontent.com/api.ohsome.org",
     "slug": "api-ohsome-org-elements-bbox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.83%",
-    "time": 1491,
-    "timeDay": 1361,
-    "timeWeek": 1397,
-    "timeMonth": 1438,
-    "timeYear": 1491,
+    "time": 1468,
+    "timeDay": 937,
+    "timeWeek": 1286,
+    "timeMonth": 1412,
+    "timeYear": 1468,
     "dailyMinutesDown": {
+      "2021-12-22": 0,
       "2021-11-25": 88
     }
   }
