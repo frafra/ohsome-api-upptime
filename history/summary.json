@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/api.ohsome.org",
     "slug": "api-ohsome-org-elements-bbox",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
-    "time": 1477,
-    "timeDay": 1552,
-    "timeWeek": 1387,
-    "timeMonth": 1396,
-    "timeYear": 1477,
+    "uptimeYear": "99.85%",
+    "time": 1476,
+    "timeDay": 1450,
+    "timeWeek": 1401,
+    "timeMonth": 1394,
+    "timeYear": 1476,
     "dailyMinutesDown": {
       "2021-11-25": 88
     }
