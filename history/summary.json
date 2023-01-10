@@ -4,7 +4,7 @@
     "url": "https://api.ohsome.org/v1/elements/bbox?bboxes=9.19%2C45.46%2C9.20%2C45.46&types=node&properties=metadata&showMetadata=true&time=2020-01-01",
     "icon": "https://icons.duckduckgo.com/ip3/api.ohsome.org.ico",
     "slug": "api-ohsome-org-elements-bbox",
-    "status": "up",
+    "status": "down",
     "uptime": "97.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.38%",
@@ -16,6 +16,7 @@
     "timeMonth": 1749,
     "timeYear": 2422,
     "dailyMinutesDown": {
+      "2023-01-10": 0,
       "2023-01-04": 62,
       "2022-12-28": 40,
       "2022-12-21": 49,
