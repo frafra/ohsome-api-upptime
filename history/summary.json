@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ohsome.org.ico",
     "slug": "api-ohsome-org-elements-bbox",
     "status": "up",
-    "uptime": "97.71%",
+    "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.67%",
     "uptimeMonth": "99.19%",
@@ -16,6 +16,7 @@
     "timeMonth": 674,
     "timeYear": 1241,
     "dailyMinutesDown": {
+      "2023-11-24": 0,
       "2023-11-18": 235,
       "2023-11-14": 60,
       "2023-10-27": 58,
