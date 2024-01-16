@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ohsome.org.ico",
     "slug": "api-ohsome-org-elements-bbox",
     "status": "up",
-    "uptime": "97.95%",
+    "uptime": "97.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.04%",
     "uptimeMonth": "98.38%",
-    "uptimeYear": "97.91%",
-    "time": 1213,
-    "timeDay": 563,
-    "timeWeek": 719,
-    "timeMonth": 769,
+    "uptimeYear": "98.19%",
+    "time": 1211,
+    "timeDay": 647,
+    "timeWeek": 718,
+    "timeMonth": 766,
     "timeYear": 1110,
     "dailyMinutesDown": {
       "2024-01-13": 263,
@@ -70,8 +70,7 @@
       "2023-01-25": 60,
       "2023-01-24": 308,
       "2023-01-18": 51,
-      "2023-01-17": 893,
-      "2023-01-16": 1440
+      "2023-01-17": 893
     }
   }
 ]
