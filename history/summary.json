@@ -6,15 +6,15 @@
     "slug": "api-ohsome-org-elements-bbox",
     "status": "up",
     "uptime": "97.96%",
-    "uptimeDay": "89.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.48%",
     "uptimeMonth": "97.26%",
     "uptimeYear": "98.52%",
     "time": 1136,
-    "timeDay": 767,
-    "timeWeek": 659,
-    "timeMonth": 699,
-    "timeYear": 986,
+    "timeDay": 444,
+    "timeWeek": 630,
+    "timeMonth": 694,
+    "timeYear": 984,
     "dailyMinutesDown": {
       "2024-02-21": 154,
       "2024-02-07": 84,
@@ -65,8 +65,7 @@
       "2023-03-09": 463,
       "2023-03-03": 102,
       "2023-03-02": 79,
-      "2023-02-28": 32,
-      "2023-02-23": 49
+      "2023-02-28": 32
     }
   }
 ]
