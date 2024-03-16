@@ -1,7 +1,7 @@
 url: https://api.ohsome.org/v1/elements/bbox?bboxes=9.19%2C45.46%2C9.20%2C45.46&types=node&properties=metadata&showMetadata=true&time=2020-01-01
-status: down
-code: 503
-responseTime: 569
-lastUpdated: 2024-03-16T11:23:41.879Z
+status: up
+code: 200
+responseTime: 644
+lastUpdated: 2024-03-16T12:52:21.728Z
 startTime: 2021-11-16T21:30:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
